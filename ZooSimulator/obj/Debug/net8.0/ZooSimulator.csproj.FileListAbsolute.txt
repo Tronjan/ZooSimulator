@@ -1,0 +1,14 @@
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\bin\Debug\net8.0\ZooSimulator.exe
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\bin\Debug\net8.0\ZooSimulator.deps.json
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\bin\Debug\net8.0\ZooSimulator.runtimeconfig.json
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\bin\Debug\net8.0\ZooSimulator.dll
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\bin\Debug\net8.0\ZooSimulator.pdb
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.AssemblyInfoInputs.cache
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.AssemblyInfo.cs
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.dll
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\refint\ZooSimulator.dll
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.pdb
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ZooSimulator.genruntimeconfig.cache
+C:\Users\Niranjan.AzureAD\Documents\Tron\ZooSimulator\ZooSimulator\obj\Debug\net8.0\ref\ZooSimulator.dll
